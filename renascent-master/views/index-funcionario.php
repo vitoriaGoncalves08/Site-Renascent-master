@@ -100,6 +100,8 @@ if (($_SESSION['email'] != 'adm') ||
 
     <?php include_once('teste.php');  //incluindo carrossel?>
     
+    <?php include_once('atalhos/imagensHome.php');  //incluindo imagens?>
+    
 
     <!--FIM-CARD-->
 

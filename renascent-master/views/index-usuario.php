@@ -86,6 +86,9 @@ if (($_SESSION ['email'] != 'user') ||
 
     <?php include_once('teste.php');  //incluindo carrossel?>
     
+    
+    <?php include_once('atalhos/imagensHome.php');  //incluindo imagens?>
+    
 <!--FIM-CARD-->
  
 <!--FOOTER-->
